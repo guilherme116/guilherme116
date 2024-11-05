@@ -1,4 +1,4 @@
-# Hello! I'm Guilherme Rodrigues 🌟
+# Hello! I'm Guilherme Rodrigues
 
 Welcome to my GitHub profile!
 
