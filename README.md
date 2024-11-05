@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello! I'm Guilherme Rodrigues 🌟
 
-<!--
-**guilherme116/guilherme116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔥 GitHub Stats
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme116&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme116&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
+
+## 🌐 Connect with Me
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/guikskk)
+[![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:guilherme.rodrigues05@aluno.ifce.edu.br)
+
+---
+
+Thank you for visiting my profile! Looking forward to connecting with you.
